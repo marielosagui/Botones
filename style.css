@@ -1,0 +1,307 @@
+.boton_1{
+    text-decoration: none;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 15px;
+    color:rgb(158, 149, 149);
+    background-color:rgb(250, 248, 248);
+    border-radius: 2px;  
+  }
+  .boton_1:hover{
+    opacity: 0.2;
+    text-decoration: none;
+  }
+
+  .boton_2{
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 10px;
+    color:rgb(158, 149, 149);
+    background-color:rgb(250, 248, 248);
+    border-radius: 2px;  
+  }
+  .boton_2:hover{
+    opacity: 0.2;
+    text-decoration: none;
+  }
+  .boton_3{
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color:rgb(158, 149, 149);
+    background-color:rgb(250, 248, 248);
+    border-radius: 3px;  
+  }
+  .boton_3:hover{
+    opacity: 0.6;
+    text-decoration: none;
+  }
+  .boton_4{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    background-color:rgb(75, 231, 166);
+    border-radius: 3px;
+    border: 2px solid;
+  }
+  .boton_personalizado:hover{
+    color:rgb(75, 231, 166);
+    background-color: #ffffff;
+  }
+  .boton_5{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    background-color:rgb(8, 191, 247);
+    border-radius: 3px;
+    border: 2px solid;
+  }
+  .boton_personalizado:hover{
+    color:rgb(8, 191, 247);
+    background-color: #ffffff;
+  }
+  .boton_6{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    background-color:rgb(8, 191, 247);
+    border-radius: 3px;
+    border: 2px solid;
+  }
+  .boton_personalizado:hover{
+    color:rgb(8, 191, 247);
+    background-color: #ffffff;
+  }
+  .boton_7{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    background-color:rgb(8, 191, 247);
+    border-radius: 3px;
+    border: 2px solid;
+  }
+  .boton_personalizado:hover{
+    color:rgb(8, 191, 247);
+    background-color: #ffffff;
+  }
+  .boton_8{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    background-color:rgb(8, 191, 247);
+    border-radius: 3px;
+    border: 2px solid;
+  }
+  .boton_personalizado:hover{
+    color:rgb(8, 191, 247);
+    background-color: #ffffff;
+  }
+  .boton_9{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    background-color:rgb(8, 191, 247);
+    border-radius: 3px;
+    border: 2px solid;
+  }
+  .boton_personalizado:hover{
+    color:rgb(8, 191, 247);
+    background-color: #ffffff;
+  }
+
+  .boton_a{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: gray;
+    background-color: white transparent;
+    border-radius: 6px;
+    border: 2px solid gray
+  }
+  .boton_personalizado:hover{
+    color: white transparent;
+    background-color: #ffffff;
+  }
+  .boton_b{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:  #4afcb2;;
+    background-color:white transparent;
+    border-radius: 6px;
+    border: 2px solid #4afcb2;
+  }
+  .boton_personalizado:hover{
+    color: white transparent;
+    background-color: #ffffff;
+  }
+  .boton_c{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    background-color:rgb(8, 191, 247);
+    border-radius: 3px;
+    border: 2px solid;
+  }
+  .boton_personalizado:hover{
+    color:rgb(8, 191, 247);
+    background-color: #ffffff;
+  }
+  .boton_d{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    background-color:rgb(8, 191, 247);
+    border-radius: 3px;
+    border: 2px solid;
+  }
+  .boton_personalizado:hover{
+    color:rgb(8, 191, 247);
+    background-color: #ffffff;
+  }
+  .boton_e{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    background-color:rgb(8, 191, 247);
+    border-radius: 3px;
+    border: 2px solid;
+  }
+  .boton_personalizado:hover{
+    color:rgb(8, 191, 247);
+    background-color: #ffffff;
+  }
+
+  .boton_f{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    background-color:rgb(8, 191, 247);
+    border-radius: 3px;
+    border: 2px solid;
+  }
+  .boton_personalizado:hover{
+    color:rgb(8, 191, 247);
+    background-color: #ffffff;
+  }
+  .boton_g{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    background-color:rgb(8, 191, 247);
+    border-radius: 3px;
+    border: 2px solid;
+  }
+  .boton_personalizado:hover{
+    color:rgb(8, 191, 247);
+    background-color: #ffffff;
+  }
+  .boton_h{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    background-color:rgb(8, 191, 247);
+    border-radius: 3px;
+    border: 2px solid;
+  }
+  .boton_personalizado:hover{
+    color:rgb(8, 191, 247);
+    background-color: #ffffff;
+  }
+  .boton_i{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    background-color:rgb(8, 191, 247);
+    border-radius: 3px;
+    border: 2px solid;
+  }
+  .boton_personalizado:hover{
+    color:rgb(8, 191, 247);
+    background-color: #ffffff;
+  }
+  .boton_j{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    background-color:rgb(8, 191, 247);
+    border-radius: 3px;
+    border: 2px solid;
+  }
+  .boton_personalizado:hover{
+    color:rgb(8, 191, 247);
+    background-color: #ffffff;
+  }
+  .boton_k{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    background-color:rgb(8, 191, 247);
+    border-radius: 3px;
+    border: 2px solid;
+  }
+  .boton_personalizado:hover{
+    color:rgb(8, 191, 247);
+    background-color: #ffffff;
+  }
+  
